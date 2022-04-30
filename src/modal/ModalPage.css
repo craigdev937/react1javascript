@@ -1,0 +1,48 @@
+/* Variables */
+
+:root {
+    /* dark shades of primary color */
+    --clr-primary-1: #063251;
+    --clr-primary-2: #104e7a;
+    --clr-primary-3: #186aa5;
+    --clr-primary-4: #2d87c8;
+    /* primary/main color */
+    --clr-primary-5: #49a6e9;
+    /* lighter shades of primary color */
+    --clr-primary-6: #6ebef7;
+    --clr-primary-7: #8bcbf9;
+    --clr-primary-8: #a5d5f8;
+    --clr-primary-9: #c5e5fc;
+    --clr-primary-10: #ebf7ff;
+    /* darkest gray - used for headings */
+    --clr-gray-1: #102a42;
+    --clr-gray-2: #243a52;
+    --clr-gray-3: #324d67;
+    --clr-gray-4: #ebf7ff;
+    /* gray used for paragraphs */
+    --clr-gray-5: #617d98;
+    --clr-gray-6: #829ab0;
+    --clr-gray-7: #9eb2c7;
+    --clr-gray-8: #bcccdc;
+    --clr-gray-9: #dae2ec;
+    --clr-gray-10: #f1f5f8;
+    --clr-white: #fff;
+    --clr-red-dark: #bb2525;
+    --clr-red-light: #e66b6b;
+    --clr-green-dark: #25bb32;
+    --clr-green-light: #6be675;
+    --clr-black: #222;
+    --transition: all 0.3s linear;
+    --spacing: 0.1rem;
+    --radius: 0.25rem;
+    --light-shadow: 0 5px 15px #0000001a;
+    --dark-shadow: 0 5px 15px #00000033;
+    --max-width: 1170px
+    --fixed-width: 620px
+}
+
+
+
+
+
+
